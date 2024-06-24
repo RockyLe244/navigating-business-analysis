@@ -1,0 +1,7 @@
+[book]
+title = "Navigating Business Analysis: A Comprehensive Guide for Newcomers"
+author = "Rocky Le"
+description = "A comprehensive guide to business analysis for newcomers, covering essential concepts and techniques."
+
+[output.html]
+default-theme = "rust"  # Replace "theme-name" with a valid theme name, e.g., "rust" or "cobalt"
